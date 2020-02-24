@@ -1,19 +1,17 @@
 ---
 templateKey: 'home-page'
-title: Gatsby Starter Business
-meta_title: Home | Gatsby Starter Business
+title: Code Haven at Yale
+meta_title: Home | Code Haven
 meta_description: >-
-  Cum sociis natoque penatibus et magnis dis parturient montes, nascetur
-  ridiculus mus. Aenean eu leo quam. Pellentesque ornare sem lacinia quam
-  venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis
-  consectetur purus sit amet fermentum.
-heading: Lorem ipsum dolor sit amet
+  Code Haven Yale: Inclusively increasing access to Computer Science Education
+heading: Code Haven at Yale
 description: >-
-  Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur,
-  adipisci velit...
+ Introducing students to computing at a young age is important in developing interest in computer science. 
 offerings:
   blurbs:
     - image: /img/coffee.png
+      title: >
+        Who are we?
       text: >
         Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc finibus 
         sem a sem ultrices, eget sagittis magna tempor. Quisque pulvinar lorem 
