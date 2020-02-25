@@ -1,7 +1,7 @@
 ---
 templateKey: home-page
 title: Code Haven at Yale
-heading: Code Haven at Yale
+heading: Welcome to the Code Haven Website!
 description: >-
   Introducing students to computing at a young age is important in developing
   interest in computer science. 
@@ -12,19 +12,8 @@ offerings:
       title: |
         Who are we?
     - image: /img/coffee-gear.png
-      text: >
-        Fusce semper turpis sed tortor consectetur condimentum. Nulla facilisi.
-        Nam  ipsum nulla, dapibus eu mi non, commodo commodo sapien.
-        Pellentesque luctus  neque id mauris accumsan, nec imperdiet justo
-        eleifend. Nulla viverra, ipsum  sit amet interdum pharetra, felis lorem
-        sollicitudin felis, vehicula finibus  enim nunc facilisis sapien. Donec
-        nulla nisi, dictum quis nibh et, euismod  semper eros. Praesent nunc
-        tortor, consequat eu justo ac, dictum viverra enim.  Etiam sed dui
-        dapibus mauris congue facilisis. Nulla convallis, lectus vel  vehicula
-        interdum, turpis nunc aliquet sem, ac iaculis ligula mauris id tortor. 
-        Sed eget ornare orci, quis dignissim nulla. Pellentesque aliquam
-        consectetur congue.
-      title: 'Testing Testing :)'
+      text: Every year code haven puts on some cool events! learn more
+      title: Events
     - image: /img/tutorials.png
       text: >
         Sed in consequat leo, sit amet ullamcorper lacus. Duis lacinia, metus
