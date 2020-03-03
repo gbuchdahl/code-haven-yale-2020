@@ -9,9 +9,9 @@ module.exports = {
   siteFBAppID: '', // FB Application ID for using app insights
   googleTagManagerID: '', // GTM tracking ID.
   disqusShortname: 'gatsby-business-starter', // Disqus shortname.
-  userName: 'Vaibhav Sharma',
-  userTwitter: 'vaibhaved',
-  userLocation: 'Delhi NCR, India',
+  userName: 'Gabriel Buchdahl',
+  userTwitter: 'gbuchdahl',
+  userLocation: 'New York, NY',
   userDescription: '',
   copyright: 'Copyright © Gatsby Starter Business 2018-2019. All Rights Reserved.', // Copyright string for the footer of the website and RSS feed.
   themeColor: '#00d1b2', // Used for setting manifest and progress theme colors.
