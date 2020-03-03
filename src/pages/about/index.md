@@ -1,38 +1,19 @@
 ---
 templateKey: about-page
 title: About Us
-meta_title: About Us | Gatsby Starter Business
+meta_title: About Us | Code Haven Yale
 meta_description: >-
   Cum sociis natoque penatibus et magnis dis parturient montes, nascetur
   ridiculus mus. Aenean eu leo quam. Pellentesque ornare sem lacinia quam
   venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis
   consectetur purus sit amet fermentum.
 ---
-## Lorem ipsum dolor sit amet, consectetuer
+## About Us
 
-Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. 
-Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus 
-mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa 
-quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu.
+We are an undergraduate student organization at Yale University dedicated to introducing students to computer science starting at a young age. Every week, Yale students teach computing lessons at several schools in the New Haven district, engaging the students with online lessons, group activities, and class-wide demonstrations. Our organization receives teacher training from Lead Program Manager of Microsoft Teals, Nathaniel Granor (Yale alumnus ’09) and David Weinreb, a 6th grade teacher at Fair Haven School.
 
-##In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. 
 
-Nullam dictum felis eu pede mollis 
-pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. 
-Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra 
-quis, feugiat a, tellus. Phasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. 
-Etiam ultricies nisi vel augue.  Nam eget dui. *Etiam rhoncus*. Maecenas 
-tempus, tellus eget condimentum rhoncus, sem quam semper libero, sit amet adipiscing sem neque sed ipsum. 
-Nam quam nunc, blandit vel, luctus pulvinar
+## History
 
-###Curabitur ullamcorper ultricies nisi.
+Code Haven was founded in Fall 2016 by Annie Chen ‘19 and Dennis Duan ‘19 with the support of Professor Dana Angluin and Yale alumnus Nathaniel Granor ‘09. A pilot semester was launched in Dave Weinreb’s sixth grade classroom at Fair Haven School, with 18 students and 6 mentors. In October 2016, Code Haven received funding from Google IgniteCS for its effort in impacting the local community through computer science mentorship. By 2020, Code Haven has grown into a student organization with almost 50 members, serving nearly 170 students in New Haven and implementing a computer science curriculum in 7 middle-school classrooms.
 
-Donec vitae sapien ut libero venenatis faucibus. Nullam quis ante. Etiam sit amet orci eget eros faucibus tincidunt. 
-Duis leo. Sed fringilla mauris sit amet nibh. Donec sodales sagittis magna. Sed consequat, leo eget bibendum sodales, 
-augue velit cursus nunc, quis gravida magna mi a libero. Fusce vulputate eleifend sapien. Vestibulum purus quam, scelerisque ut, 
-mollis sed, nonummy id, metus. 
-* Cras ultricies mi eu turpis hendrerit fringilla. 
-* Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; 
-* In ac dui quis mi consectetuer lacinia.
-
-**Etiam ultricies nisi vel augue!**
