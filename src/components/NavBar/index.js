@@ -32,16 +32,17 @@ const NavBar = ({ toggleNavbar, isActive }) => (
           <div className='navbar-end'>
             <SearchBox searchIndex={data.siteSearchIndex.index} />
             <Link className='navbar-item' to='/about'>
-              About
+              About Us
             </Link>
-            <Link className='navbar-item'>
-              <a target='_blank' href='http://localhost:4000'>Curriculum</a>
-            </Link>
-            <Link className='navbar-item' to='/pricing'>
+
+            {/* <Link className='navbar-item' to='/pricing'>
               Pricing
-            </Link>
+            </Link> */}
             <Link className='navbar-item' to='/blog'>
               Blog
+            </Link>
+            <Link className='navbar-item'>
+              <a style={{ color: '#4A4A4A' }} target='_blank' href='http://localhost:4000'>Curriculum</a>
             </Link>
             <div className='navbar-item'>
               <div className='field is-grouped'>
@@ -56,7 +57,7 @@ const NavBar = ({ toggleNavbar, isActive }) => (
             </div>
           </div>
         </div>
-      </nav>
+      </nav >
     )}
   />
 )
