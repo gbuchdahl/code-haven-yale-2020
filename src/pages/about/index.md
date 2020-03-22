@@ -1,17 +1,16 @@
 ---
 templateKey: about-page
 title: About Us
-people:
-  - name: Gabriel Buchdahl
-    title: Outreach Director
-    image: /img/products-grid3.jpg
 meta_title: About Us | Code Haven Yale
 meta_description: >-
   Cum sociis natoque penatibus et magnis dis parturient montes, nascetur
   ridiculus mus. Aenean eu leo quam. Pellentesque ornare sem lacinia quam
   venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis
   consectetur purus sit amet fermentum.
-
+people:
+  - image: /img/img_7175.jpeg
+    name: Gabriel Buchdahl
+    title: Outreach Director
 ---
 ## About Us
 
