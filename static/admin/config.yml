@@ -65,3 +65,12 @@ collections:
       - {label: "Tags", name: "tags", widget: "list"}
       - {label: "Meta Title", name: "meta_title", widget: "string"}
       - {label: "Meta Description", name: "meta_description", widget: "text"}
+  - name: "team"
+    label: "Team"
+    folder: "src/pages/team"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - {label: "Name", name: "name", widget: "string"}
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Cover", name: "cover", widget: "image"}
