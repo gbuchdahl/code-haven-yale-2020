@@ -8,6 +8,9 @@ meta_description: >-
   venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis
   consectetur purus sit amet fermentum.
 people:
+  - image: /img/bernardo.jpeg
+    name: Bernardo Trevisan
+    title: President
   - image: /img/img_7175.jpeg
     name: Gabriel Buchdahl
     title: Outreach Director

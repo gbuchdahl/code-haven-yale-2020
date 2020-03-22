@@ -5,10 +5,12 @@ const People = ({ gridItems }) => (
   <div className='columns is-multiline'>
     {gridItems.map(item => (
       <div key={item.image} className='column is-4' style={{ borderRadius: '5px' }}>
-        <section className='section'>
-          <p className='has-text-centered'>
-            <img alt='' src={item.image} />
-          </p>
+        <section className='section has-text-centered'>
+          <div className='container is-128x128 image box'>
+            {/* <p className='box image is-128x128'> */}
+            <img className='is-rounded' alt='' src={item.image} />
+            {/* </p> */}
+          </div>
           <h2 className='is-size-5 has-text-weight-bold'>{item.name}</h2>
           <p>{item.title}</p>
         </section>
