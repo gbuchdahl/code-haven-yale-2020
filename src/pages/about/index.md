@@ -3,14 +3,12 @@ templateKey: about-page
 title: About Us
 meta_title: About Us | Code Haven Yale
 meta_description: >-
-  Cum sociis natoque penatibus et magnis dis parturient montes, nascetur
-  ridiculus mus. Aenean eu leo quam. Pellentesque ornare sem lacinia quam
-  venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis
-  consectetur purus sit amet fermentum.
+  We are an undergraduate student organization at Yale University dedicated to
+  introducing students to computer science starting at a young age. Every week,
+  Yale students teach computing lessons at several schools in the New Haven
+  district, engaging the students with online lessons, group activities, and
+  class-wide demonstrations. 
 people:
-  - image: /img/bernardo.jpeg
-    name: Bernardo Trevisan
-    title: President
   - image: /img/img_7175.jpeg
     name: Gabriel Buchdahl
     title: Outreach Director
