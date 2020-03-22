@@ -28,7 +28,7 @@ const AboutPageTemplate = ({ title, content, contentComponent, people }) => {
           <div className='columns'>
             <div className='column is-10 is-offset-1'>
               <div className='section'>
-                <PageContent className='content' content={content} />\
+                <PageContent className='content' content={content} />
                 <People gridItems={people} />
               </div>
             </div>

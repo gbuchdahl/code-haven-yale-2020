@@ -4,7 +4,7 @@ title: About Us
 people:
   - name: Gabriel Buchdahl
     title: Outreach Director
-    image: /
+    image: /img/products-grid3.jpg
 meta_title: About Us | Code Haven Yale
 meta_description: >-
   Cum sociis natoque penatibus et magnis dis parturient montes, nascetur
@@ -21,4 +21,6 @@ We are an undergraduate student organization at Yale University dedicated to int
 ## History
 
 Code Haven was founded in Fall 2016 by Annie Chen ‘19 and Dennis Duan ‘19 with the support of Professor Dana Angluin and Yale alumnus Nathaniel Granor ‘09. A pilot semester was launched in Dave Weinreb’s sixth grade classroom at Fair Haven School, with 18 students and 6 mentors. In October 2016, Code Haven received funding from Google IgniteCS for its effort in impacting the local community through computer science mentorship. By 2020, Code Haven has grown into a student organization with almost 50 members, serving nearly 170 students in New Haven and implementing a computer science curriculum in 7 middle-school classrooms.
+
+## Our Team
 
