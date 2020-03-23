@@ -22,7 +22,7 @@ const PaginationLink = props => {
 }
 
 export default class BlogPage extends Component {
-  render () {
+  render() {
     const { pageContext } = this.props
     const { group, index, first, last } = pageContext
     const previousUrl = index - 1 === 1 ? '' : (index - 1).toString()
@@ -45,14 +45,14 @@ export default class BlogPage extends Component {
             {JSON.stringify(websiteSchemaOrgJSONLD)}
           </script>
         </Helmet>
-        <section className='hero is-primary is-bold'>
+        <section className='hero is-primary is-bold is-small'>
           <div className='hero-body'>
             <div className='container'>
               <div className='columns'>
                 <div className='column is-10 is-offset-1'>
                   <div className='section'>
-                    <h1 className='title'>
-                      Blog
+                    <h1 className='title is-1'>
+                      Code Haven Blog
                     </h1>
                   </div>
                 </div>
