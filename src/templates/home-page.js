@@ -17,8 +17,10 @@ const HomePage = ({ data }) => {
         description={frontmatter.description}
         offerings={frontmatter.offerings}
         testimonials={frontmatter.testimonials}
+        internal={data.markdownRemark.html}
       />
     </Layout>
+
   )
 }
 
@@ -53,6 +55,7 @@ export const pageQuery = graphql`
           quote
         }
       }
+      html
     }
   }
 `

@@ -3,6 +3,7 @@ import Helmet from 'react-helmet'
 import Offerings from '../Offerings'
 import Testimonials from '../Testimonials'
 import PropTypes from 'prop-types'
+import { Link } from 'gatsby'
 
 const HomePageTemplate = ({
   title,
@@ -12,6 +13,7 @@ const HomePageTemplate = ({
   meta_title,
   meta_description,
   testimonials,
+  internal,
 }) => (
     <div>
       <Helmet>
@@ -27,6 +29,13 @@ const HomePageTemplate = ({
                   <h1 className='title is-size-1 has-text-centered'>
                     {title}
                   </h1>
+                  <p className='control has-text-centered'>
+                    <Link
+                      className='button is-large has-text-weight-bold is-primary inverted is-rounded'
+                      to='/contact'>
+                      Contact Us!
+                      </Link>
+                  </p>
                 </div>
               </div>
             </div>
@@ -47,7 +56,7 @@ const HomePageTemplate = ({
                     <p>{description}</p>
                   </div>
                   <Offerings gridItems={offerings.blurbs} />
-                  <h2 className='has-text-weight-semibold is-size-2'>Testimonials</h2>
+                  <h2 className='has-text-weight-semibold is-size-2'>What people are saying</h2>
                   <Testimonials testimonials={testimonials} />
                 </div>
               </div>
@@ -55,6 +64,7 @@ const HomePageTemplate = ({
           </div>
         </div>
       </section>
+      <div dangerouslySetInnerHTML={{ __html: internal }} />
     </div>
   )
 
@@ -68,7 +78,7 @@ HomePageTemplate.propTypes = {
     blurbs: PropTypes.array,
   }),
   testimonials: PropTypes.array,
-
+  internal: PropTypes.string,
 }
 
 export default HomePageTemplate
