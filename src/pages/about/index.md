@@ -14,7 +14,7 @@ people:
   - image: /img/bernardo.jpeg
     name: Bernardo Trevisan
     title: President
-  - image: /img/img_7175.jpeg
+  - image: /img/img_7175.png
     name: Gabriel Buchdahl
     title: Outreach Director
 ---
