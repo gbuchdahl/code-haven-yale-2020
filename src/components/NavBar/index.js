@@ -49,9 +49,9 @@ const NavBar = ({ toggleNavbar, isActive }) => (
             <div className='navbar-item'>
               <div className='field is-grouped'>
                 <p className='control'>
-                  <Link className='navbar-item button is-primary is-outlined'>
-                    <a target='_blank' href='http://localhost:4000'>Curriculum</a>
-                  </Link>
+                  <div className='navbar-item button is-primary has-text-white'>
+                    <a target='_blank' href='https://codehavenyale.github.io'>Curriculum</a>
+                  </div>
                 </p>
               </div>
             </div>
