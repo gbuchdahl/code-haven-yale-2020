@@ -8,6 +8,9 @@ meta_description: >-
   venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis
   consectetur purus sit amet fermentum.
 people:
+  - image: /img/maansi.jpeg
+    name: Maansi Dasari
+    title: President
   - image: /img/bernardo.jpeg
     name: Bernardo Trevisan
     title: President
