@@ -1,11 +1,8 @@
 ---
 templateKey: 'contact-page'
 title: Contact Us
-subtitle: We'd Love To Help You, Feel Free To Drop A Mail
-meta_title: Contact Us | Gatsby Starter Business
+subtitle: Whether you're a teacher or a Yale student, we'd love to hear from you! 
+meta_title: Contact Us | Code Haven Yale
 meta_description: >-
-  Cum sociis natoque penatibus et magnis dis parturient montes, nascetur
-  ridiculus mus. Aenean eu leo quam. Pellentesque ornare sem lacinia quam
-  venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis
-  consectetur purus sit amet fermentum.
+  Get in touch with Code Haven!
 ---
