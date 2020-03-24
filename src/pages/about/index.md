@@ -17,6 +17,12 @@ people:
   - image: /img/img_7175.png
     name: Gabriel Buchdahl
     title: Outreach Director
+  - image: /img/danny.jpg
+    name: Danny Farid
+    title: Treasurer
+  - image: /img/jesswang.jpg
+    name: Jessica Wang
+    title: Curriculum Director
 ---
 ## About Us
 
