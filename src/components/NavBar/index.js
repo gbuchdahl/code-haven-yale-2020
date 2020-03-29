@@ -1,6 +1,7 @@
 import React from 'react'
 import { Link, graphql, StaticQuery } from 'gatsby'
 import SearchBox from '../SearchBox'
+import favicon from '../../assets/img/favicon.ico'
 
 const NavBar = ({ toggleNavbar, isActive }) => (
   <StaticQuery
@@ -15,7 +16,8 @@ const NavBar = ({ toggleNavbar, isActive }) => (
       <nav className='navbar is-fixed-top' aria-label='main navigation'>
         <div className='navbar-brand'>
           <Link to='/' className='navbar-item'>
-            <strong>Code Haven Yale</strong>
+            {/* <strong>Code Haven Yale</strong> */}
+            <img src={favicon}></img>
           </Link>
           <button
             className={`button navbar-burger ${isActive ? 'is-active' : ''}`}
