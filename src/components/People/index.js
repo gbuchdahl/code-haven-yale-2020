@@ -4,9 +4,9 @@ import PropTypes from 'prop-types'
 const People = ({ gridItems }) => (
   <div className='columns is-multiline'>
     {gridItems.map(item => (
-      <div key={item.image} className='column is-3 is-half-mobile has-text-centered' style={{ borderRadius: '5px' }}>
+      <div key={item.image} className='column is-3 is-half-mobile has-text-centered' style={{ borderRadius: '3px' }}>
         <section className='section has-text-centered'>
-          <div className='container is-128x128 image box'>
+          <div className='container is-128x128 image is-rounded'>
             {/* <p className='box image is-128x128'> */}
             <img className='is-rounded' alt='' src={item.image} />
             {/* </p> */}
