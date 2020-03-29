@@ -2,11 +2,7 @@
 templateKey: about-page
 title: About Us
 meta_title: About Us | Code Haven Yale
-meta_description: >-
-  Cum sociis natoque penatibus et magnis dis parturient montes, nascetur
-  ridiculus mus. Aenean eu leo quam. Pellentesque ornare sem lacinia quam
-  venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis
-  consectetur purus sit amet fermentum.
+meta_description: Code Haven About Information
 people:
   - image: /img/maansi.jpeg
     name: Maansi Dasari
