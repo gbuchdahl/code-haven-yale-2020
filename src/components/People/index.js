@@ -8,7 +8,7 @@ const People = ({ gridItems }) => (
         <section className='section has-text-centered'>
           <div className='container is-128x128 image box'>
             {/* <p className='box image is-128x128'> */}
-            <img className='is-rounded' alt='' src={item.image} />
+            <img alt='' className='is-rounded' src={item.image} />
             {/* </p> */}
           </div>
           <h2 className='is-size-5 has-text-weight-bold'>{item.name}</h2>
