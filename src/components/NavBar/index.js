@@ -34,7 +34,7 @@ const NavBar = ({ toggleNavbar, isActive }) => (
           <div className='navbar-end'>
             <SearchBox searchIndex={data.siteSearchIndex.index} />
             <Link className='navbar-item' to='/about'>
-              About Us
+              About
             </Link>
 
             {/* <Link className='navbar-item' to='/pricing'>
@@ -42,6 +42,9 @@ const NavBar = ({ toggleNavbar, isActive }) => (
             </Link> */}
             <Link className='navbar-item' to='/blog'>
               Blog
+            </Link>
+            <Link className='navbar-item' to='/join-us'>
+              Join
             </Link>
             <Link
               className='navbar-item'
