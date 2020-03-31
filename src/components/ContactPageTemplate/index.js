@@ -29,7 +29,11 @@ const ContactPageTemplate = ({ title, subtitle, meta_title, meta_description }) 
     </section>
     <section className='section'>
       <div className='container'>
-        <ContactForm />
+        <div className="columns">
+          <div className='column is-one-half box'>
+            <ContactForm />
+          </div>
+        </div>
       </div>
     </section>
   </div>
