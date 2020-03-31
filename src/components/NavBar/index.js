@@ -16,8 +16,10 @@ const NavBar = ({ toggleNavbar, isActive }) => (
       <nav className='navbar is-fixed-top' aria-label='main navigation'>
         <div className='navbar-brand'>
           <Link to='/' className='navbar-item'>
-            {/* <strong>Code Haven Yale</strong> */}
             <img src={favicon}></img>
+          </Link>
+          <Link to='/' className='navbar-item'>
+            <p className='has-text-weight-bold is-pulled-right'>Code Haven</p>
           </Link>
           <button
             className={`button navbar-burger ${isActive ? 'is-active' : ''}`}
@@ -55,7 +57,7 @@ const NavBar = ({ toggleNavbar, isActive }) => (
               <div className='field is-grouped'>
                 <p className='control'>
                   <div className='navbar-item button is-primary has-text-white'>
-                    <a target='_blank' href='https://codehavenyale.github.io'>Curriculum</a>
+                    <a className='has-text-white has-text-weight-bold' target='_blank' href='https://codehavenyale.github.io'>Curriculum</a>
                   </div>
                 </p>
               </div>

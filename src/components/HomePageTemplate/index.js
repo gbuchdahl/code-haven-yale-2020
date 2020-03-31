@@ -4,6 +4,7 @@ import Offerings from '../Offerings'
 import Testimonials from '../Testimonials'
 import PropTypes from 'prop-types'
 import { Link } from 'gatsby'
+import favicon from '../../assets/img/favicon.ico'
 
 const HomePageTemplate = ({
   title,
@@ -20,12 +21,17 @@ const HomePageTemplate = ({
         <title>{meta_title}</title>
         <meta name='description' content={meta_description} />
       </Helmet>
-      <section className='hero-home is-primary is-bold is-medium'>
+      <section className='hero-home is-primary is-bold is-small'>
         <div className='hero-body'>
           <div className='container'>
             <div className='columns'>
               <div className='column is-10 is-offset-1'>
                 <div className='section'>
+                  <div className="columns">
+                    <div className="column is-2 is-offset-5 box">
+                      <img className='' src={favicon}></img>
+                    </div>
+                  </div>
                   <h1 className='title is-size-1 has-text-centered'>
                     {title}
                   </h1>
