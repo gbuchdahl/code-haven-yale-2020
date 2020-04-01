@@ -52,10 +52,19 @@ offerings:
         editor.
       title: Our Curriculum
 testimonials:
-  - author: 'some teacher, maybe?'
-    quote: Code haven rocks!
-  - author: 'a student, perhaps!'
-    quote: I love playing with the scratch cat!
+  - author: 'David Weinreb, Teacher'
+    quote: >-
+      "Professional young organization built by hardworking diverse computer
+      science students who care deeply about equity in computer science
+      education"
+  - author: Code Haven Student
+    quote: >-
+      "Before I thought it was hard to make an app but I worked with my best
+      friend and we were both successful."
+  - author: Code Haven Student
+    quote: >-
+      "I want to pursue a career in computer science, and my family thinks
+      computer science is the right thing for me."
 meta_title: Home | Code Haven
 meta_description: 'Code Haven Yale: Inclusively increasing access to Computer Science Education'
 ---
