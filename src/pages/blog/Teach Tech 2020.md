@@ -4,7 +4,7 @@ title: TeachTech 2020 - Giving teachers the tools to teach computer science
 slug: teach-tech-2020
 date: 2020-03-02T03:55:49.370Z
 cover: /img/TeachTechLogo.png
-meta_title: Teach Tech
+meta_title: Teach Tech 2020
 meta_description: >-
   This year, on January 25th, Code Haven hosted our third annual Teach Tech conference. Here’s why we did it, how the day went, and what we took away from it.
 tags:
