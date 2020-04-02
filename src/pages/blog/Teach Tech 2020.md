@@ -11,8 +11,6 @@ tags:
   - events
 ---
 
-Read this article on [Medium](https://medium.com/code-haven/teachtech-2020-giving-teachers-the-tools-to-teach-computer-science-d99367604375).
-
 This year, on January 25th, Code Haven hosted our third annual Teach Tech conference. Here’s why we did it, how the day went, and what we took away from it.
 
 ## What is Teach Tech?
@@ -78,3 +76,5 @@ One of the biggest takeaways for us was that teachers were very interested to se
 With nearly 40 attendees, this year’s Teach Tech was our biggest one yet, and thanks to the support of the Code Haven community and our sponsors, it was a great success! We can’t wait to do it again next year.
 
 ![](/img/TeachTechCollage.png)
+
+This article originally appeared on [Medium](https://medium.com/code-haven/teachtech-2020-giving-teachers-the-tools-to-teach-computer-science-d99367604375).

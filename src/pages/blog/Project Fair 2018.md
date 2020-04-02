@@ -17,24 +17,24 @@ Code Haven held our first Project Fair, April 27, 2018 at Bishop Woods Middle Sc
 
 Learn more about our fair from articles at the links below:
 
-[Medium](https://medium.com/code-haven/how-middle-schoolers-became-app-developers-code-haven-project-fair-2018-1c5432b49c37): The how and why of Project Fair by our Events Director Caitlin Westerfield
+- [Medium](https://medium.com/code-haven/how-middle-schoolers-became-app-developers-code-haven-project-fair-2018-1c5432b49c37): The how and why of Project Fair by our Events Director Caitlin Westerfield
 
-[Yale Daily News](https://yaledailynews.com/blog/2018/04/27/code-haven-plans-annual-student-fair/)
+- [Yale Daily News](https://yaledailynews.com/blog/2018/04/27/code-haven-plans-annual-student-fair/)
 
-[New Haven Register](https://www.nhregister.com/news/article/Students-find-a-common-language-with-computer-12873213.php)
+- [New Haven Register](https://www.nhregister.com/news/article/Students-find-a-common-language-with-computer-12873213.php)
 
 
 ## Student Booths
 
 These student organizations at Yale showed off some of their technical projects with our students! Check them out!
 
-[YDriving](https://www.youtube.com/watch?v=D5sTqxqb3wQ&feature=youtu.be)
+- [YDriving](https://www.youtube.com/watch?v=D5sTqxqb3wQ&feature=youtu.be)
 
-[Yale WiCS](http://yalewics.com/)
+- [Yale WiCS](http://yalewics.com/)
 
-[Intelligent Vehicles](https://www.facebook.com/yaleinve/)
+- [Intelligent Vehicles](https://www.facebook.com/yaleinve/)
 
-[Yale Social Robotics Lab](https://scazlab.yale.edu/)
+- [Yale Social Robotics Lab](https://scazlab.yale.edu/)
 
 ## Photos!
 
