@@ -1,7 +1,7 @@
 ---
 templateKey: article-page
-title: Teach Tech 2020 Resources
-slug: teach-teach-2020-resources
+title: Teach Tech 2018 Resources
+slug: teach-teach-2018-resources
 date: 2018-12-08T03:55:49.370Z
 cover: /img/TeachTech2018.jpg
 meta_title: Teach Tech 2018 Resources
