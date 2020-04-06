@@ -1,5 +1,6 @@
 import React from 'react'
 import config from '../../../config'
+import MailChimp from '../MailChimp'
 
 const Footer = () => {
   return (
@@ -11,6 +12,8 @@ const Footer = () => {
           </p>
           <p>Add us on <a href='https://facebook.com/codehavenyale'>Facebook</a>, and check us out on <a href='https://medium.com/code-haven'>Medium!</a></p>
           <p>Powered by <a href='https://www.gatsbyjs.org'>Gatsby</a> and <a href='https://www.netlifycms.org'>Netlify CMS</a></p>
+          <br></br>
+          <MailChimp />
         </div>
       </div>
     </footer>
