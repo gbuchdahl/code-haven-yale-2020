@@ -17,8 +17,8 @@ Plus, as a member, you’ll be able to:
   -  Meet other Yale students interested in Computer Science
   -  Get t-shirts, stickers, tote bags, and more!
 
-If any of this sounds interesting to you, email us at codehavenyale \[at\] gmail.com!
+If any of this sounds interesting to you, [shoot us an email!](mailto:codehavenyale@gmail.com)
 
 # For Teachers: Bring Code Haven to Your Classroom!
-Interested in bringing introductory computer science to your classroom? Our current curriculum is designed for middle school students with no computer science experiences, with lessons for an hour a week. We've filled all our classroom slots for the 2019-2020 school year, but please get in touch by emailing us at codehavenyale \[at\] gmail.com!
+Interested in bringing introductory computer science to your classroom? Our current curriculum is designed for middle school students with no computer science experiences, with lessons for an hour a week. We've filled all our classroom slots for the 2019-2020 school year, [but we'd love to hear from you!](mailto:codehavenyale@gmail.com)
 
