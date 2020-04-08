@@ -25,7 +25,7 @@ offerings:
         We work with local middle schools in New Haven, Connecticut. Our
         students come from all sorts of backgrounds, and many do not have
         experience with computer science since it tends to be left out of the
-        required state curriculum. We are also expanding our reach by making our curriculum available online: check it out [here](codehavenyale.github.io)!
+        required state curriculum. We are also expanding our reach by making our curriculum available online: check it out by clicking on "Curriculum" in the navigation bar!
       title: Who do we help?
     - image: /img/1.jpeg.jpg
       text: >+
