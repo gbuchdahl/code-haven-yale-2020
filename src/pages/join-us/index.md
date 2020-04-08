@@ -1,7 +1,7 @@
 ---
 templateKey: 'join-us'
 title: Join Us
-subtitle: Whether you're a teacher or a Yale student, we'd love to hear from you! 
+subtitle: We'd love to hear from you! 
 meta_title: Join Us | Code Haven Yale
 meta_description: >-
   Start working with Code Haven!

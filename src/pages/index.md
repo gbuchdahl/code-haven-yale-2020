@@ -25,9 +25,7 @@ offerings:
         We work with local middle schools in New Haven, Connecticut. Our
         students come from all sorts of backgrounds, and many do not have
         experience with computer science since it tends to be left out of the
-        required state curriculum. We are working to expand our reach by
-        creating downloadable curriculum documents that will be available online
-        for an audience beyond New Haven. Stay tuned!
+        required state curriculum. We are also expanding our reach by making our curriculum available online: check it out [here](codehavenyale.github.io)!
       title: Who do we help?
     - image: /img/1.jpeg.jpg
       text: >+
@@ -56,12 +54,12 @@ testimonials:
     quote: >-
       "Professional young organization built by hardworking diverse computer
       science students who care deeply about equity in computer science
-      education"
-  - author: Code Haven Student
+      education..."
+  - author: A Code Haven student
     quote: >-
       "Before I thought it was hard to make an app but I worked with my best
       friend and we were both successful."
-  - author: Code Haven Student
+  - author: A Code Haven student
     quote: >-
       "I want to pursue a career in computer science, and my family thinks
       computer science is the right thing for me."
