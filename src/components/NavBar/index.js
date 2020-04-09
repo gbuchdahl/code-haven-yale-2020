@@ -19,7 +19,7 @@ const NavBar = ({ toggleNavbar, isActive }) => (
             <img src={favicon}></img>
           </Link>
           <Link to='/' className='navbar-item'>
-            <p className='has-text-weight-bold is-pulled-right'>Code Haven</p>
+            <p className='has-text-weight-bold is-pulled-right'>Code Haven Yale</p>
           </Link>
           <button
             className={`button navbar-burger ${isActive ? 'is-active' : ''}`}
@@ -34,7 +34,7 @@ const NavBar = ({ toggleNavbar, isActive }) => (
         <div className={`navbar-menu ${isActive ? 'is-active' : ''}`} id='navMenu'>
 
           <div className='navbar-end'>
-            {/* <SearchBox searchIndex={data.siteSearchIndex.index} /> */}
+            <SearchBox searchIndex={data.siteSearchIndex.index} />
             <Link className='navbar-item' to='/about'>
               About
             </Link>
