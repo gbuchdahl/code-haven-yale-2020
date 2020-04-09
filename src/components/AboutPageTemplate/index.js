@@ -8,13 +8,13 @@ const AboutPageTemplate = ({ title, content, contentComponent, people }) => {
 
   return (
     <div>
-      <section className='hero is-primary is-bold is-small'>
+      <section className='hero hero-about is-primary is-bold is-medium'>
         <div className='hero-body'>
           <div className='container'>
             <div className='columns'>
               <div className='column is-10 is-offset-1'>
                 <div className='section'>
-                  <h1 className='title is-size-1'>
+                  <h1 className='title is-1'>
                     {title}
                   </h1>
                 </div>
