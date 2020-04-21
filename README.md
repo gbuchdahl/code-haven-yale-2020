@@ -1,5 +1,7 @@
 # Code Haven Yale
 
+![Screenshot](static/img/screenshot.png)
+
 Information: 
 - Site is deployed with Netlify, which also powers the form.
 - Pages are generated using GatsbyJS, which gets data from markdown files.
