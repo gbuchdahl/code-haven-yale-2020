@@ -5,20 +5,20 @@ import JoinUsTemplate from '../components/JoinUsTemplate'
 import Layout from '../components/Layout'
 
 const JoinUsPage = ({ data }) => {
-    const { frontmatter } = data.markdownRemark
-    const { markdownRemark: post } = data
+  const { frontmatter } = data.markdownRemark
+  const { markdownRemark: post } = data
 
-    return (
-        <Layout>
-            <JoinUsTemplate
-                title={frontmatter.title}
-                meta_title={frontmatter.meta_title}
-                meta_description={frontmatter.meta_description}
-                content={post.html}
-            />
-        </Layout>
+  return (
+    <Layout>
+      <JoinUsTemplate
+        title={frontmatter.title}
+        meta_title={frontmatter.meta_title}
+        meta_description={frontmatter.meta_description}
+        content={post.html}
+      />
+    </Layout>
 
-    )
+  )
 }
 
 // PricingPage.propTypes = {

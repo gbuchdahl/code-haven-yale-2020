@@ -30,6 +30,15 @@ const JoinUsTemplate = ({
                 </div>
             </section>
             <section className='section section--gradient'>
+                <div className="columns">
+                    <div className="column"></div>
+                    <div className="column is-three-fifths">
+                        <div className="container image is-16by9">
+                            <iframe className='has-ratio' src="https://www.youtube.com/embed/iMtMpBSn4Rs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                        </div>
+                    </div>
+                    <div className="column"></div>
+                </div>
                 <div className='columns'>
                     {/* <div className="column">
                         <image src="/img/mentors.jpg"></image>
