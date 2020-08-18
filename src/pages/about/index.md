@@ -19,9 +19,9 @@ people:
   - image: /img/aaron.jpg
     name: Aaron Daniels
     title: Curriculum Director
-  - image: /img/saralewis.jpg
-    name: Sara Lewis
-    title: Curriculum Advisor
+  # - image: /img/saralewis.jpg
+  #   name: Sara Lewis
+  #   title: Curriculum Advisor
   - image: /img/img_7176.png
     name: Gabriel Buchdahl
     title: Outreach Director
@@ -46,12 +46,12 @@ people:
   - image: /img/lucas.jpg
     name: Lucas Shepard
     title: Video Director
-  - image: /img/steph.jpeg
-    name: Stephanie Bang
-    title: Advisor
-  - image: /img/daniel.png
-    name: Daniel Urke
-    title: Advisor
+  # - image: /img/steph.jpeg
+  #   name: Stephanie Bang
+  #   title: Advisor
+  # - image: /img/daniel.png
+  #   name: Daniel Urke
+  #   title: Advisor
 ---
 ## About Us
 
