@@ -40,6 +40,12 @@ people:
   - image: /img/eden.jpeg
     name: Eden Gorevoy
     title: Events Director
+  - image: /img/andrewrichards.jpeg
+    name: Andrew Richards
+    title: Video Director
+  - image: /img/lucas.jpg
+    name: Lucas Shepard
+    title: Video Director
   - image: /img/steph.jpeg
     name: Stephanie Bang
     title: Advisor
