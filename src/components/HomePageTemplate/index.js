@@ -21,6 +21,9 @@ const HomePageTemplate = ({
         <title>{meta_title}</title>
         <meta name='description' content={meta_description} />
       </Helmet>
+      <div className="is-marginless is-fluid container has-text-centered has-background-warning is-fullwidth">
+        <h3 className="is-size-4 banner pt-3 is-fluid has-text-weight-semibold">Applications open for '20-'21 classrooms: <a href="https://forms.gle/1NCZpoCmFq9k34iU9">apply here!</a> </h3>
+      </div>
       <section className='hero-home is-primary is-bold is-small'>
         <div className='hero-body'>
           <div className='container'>
