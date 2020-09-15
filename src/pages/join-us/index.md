@@ -17,7 +17,7 @@ Plus, as a member, you’ll be able to:
   -  Meet other Yale students interested in Computer Science
   -  Get t-shirts, stickers, tote bags, and more!
 
-###[Apply here!](https://docs.google.com/forms/d/e/1FAIpQLSedA3vXMeskpAnWzSEmi1G2kMil6gIGk8r8uO_QD0G7VbD1zA/viewform?usp=sf_link)
+*Applications are now closed.* Check in next semester for more opportunities! 
 
 
 # For Teachers: Bring Code Haven to Your Classroom!
