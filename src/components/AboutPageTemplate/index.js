@@ -2,6 +2,8 @@ import React from 'react'
 import Content from '../Content'
 import PropTypes from 'prop-types'
 import People from '../People'
+import stickerGiant from '../../assets/img/stickergiant.svg'
+import googleLogo from '../../assets/img/igniteCS+logo.png'
 
 const AboutPageTemplate = ({ title, content, contentComponent, people }) => {
   const PageContent = contentComponent || Content
@@ -32,6 +34,17 @@ const AboutPageTemplate = ({ title, content, contentComponent, people }) => {
                 <People gridItems={people} />
               </div>
             </div>
+          </div>
+        </div>
+      </section>
+      <section className='section section--gradient has-text-centered '>
+        <h1 className='title is-3'>Sponsors</h1>
+        <div className='columns is-vcentered'>
+          <div className='column is-3 is-offset-3'>
+            <img src={googleLogo}></img>
+          </div>
+          <div className='column is-3'>
+            <img src={stickerGiant}></img>
           </div>
         </div>
       </section>
