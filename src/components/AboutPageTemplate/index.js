@@ -4,6 +4,11 @@ import PropTypes from 'prop-types'
 import People from '../People'
 import stickerGiant from '../../assets/img/stickergiant.svg'
 import googleLogo from '../../assets/img/igniteCS+logo.png'
+import dwighthall from '../../assets/img/dwighthall.jpg'
+import seas from '../../assets/img/seas.jpg'
+import pathways from '../../assets/img/yalepathwaystoscience.jpg'
+import ycc from '../../assets/img/ycc.png'
+
 
 const AboutPageTemplate = ({ title, content, contentComponent, people }) => {
   const PageContent = contentComponent || Content
@@ -37,18 +42,34 @@ const AboutPageTemplate = ({ title, content, contentComponent, people }) => {
           </div>
         </div>
       </section>
-      <section className='section section--gradient has-text-centered '>
+      <section className='section section--gradient has-text-centered'>
         <h1 className='title is-3'>Sponsors</h1>
-        <div className='columns is-vcentered'>
-          <div className='column is-3 is-offset-3'>
-            <img src={googleLogo}></img>
-          </div>
-          <div className='column is-3'>
-            <img src={stickerGiant}></img>
+        <div className='columns'>
+          <div className='is-offset-one-quarter is-half column'>
+            <div className='columns is-vcentered is-centered is-multiline'>
+              <div className='column is-4 is-6-mobile'>
+                <a className='image box is-128x128' href="https://www.ycc.yale.edu/about-uofc"><img src={ycc}></img></a>
+              </div>
+              <div className='column is-4 is-6-mobile'>
+                <a className='image box is-128x128' href='https://dwighthall.org/'><img src={dwighthall}></img></a>
+              </div>
+              <div className='column is-4 is-6-mobile'>
+                <a className='image box is-128x128' href='https://seas.yale.edu/'><img src={seas}></img></a>
+              </div>
+              <div className='column is-4 is-6-mobile'>
+                <a className='image box is-128x128' href='https://onha.yale.edu/pathways-science'><img src={pathways}></img></a>
+              </div>
+              <div className='column is-4 is-6-mobile'>
+                <a className='image box is-128x128' href='https://stickergiant.com'><img className='pt-3' src={stickerGiant}></img></a>
+              </div>
+              <div className='column is-4 is-6-mobile'>
+                <a className='image box is-128x128' href="https://sites.google.com/view/ignitecs/home"><img src={googleLogo}></img></a>
+              </div>
+            </div>
           </div>
         </div>
       </section>
-    </div>
+    </div >
   )
 }
 
