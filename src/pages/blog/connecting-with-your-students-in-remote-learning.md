@@ -5,7 +5,7 @@ slug: >-
   A conversation with a Code Haven teacher on understanding students behind the
   screen
 date: 2020-10-21T15:56:05.385Z
-cover: /img/screen-shot-2020-10-21-at-11.56.32-am.png
+cover: /img/picture.jpg.png
 tags:
   - blog
   - education
