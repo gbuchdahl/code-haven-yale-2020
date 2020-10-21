@@ -11,7 +11,7 @@ tags:
   - education
   - teachers
 meta_title: Connecting with Students
-meta_description: meta
+meta_description: Connecting with Students
 ---
 The transition from in-person to remote learning has certainly been tough--there’s no two ways around it. Technology’s unreliability has always been a concern in the classroom, but now there are more serious consequences, like a teacher’s faulty WiFi leaving an entire Zoom-room full of unattended elementary school kids. Those logistical difficulties are clear. 
 
