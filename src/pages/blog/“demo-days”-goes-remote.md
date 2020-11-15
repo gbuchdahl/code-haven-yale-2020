@@ -1,6 +1,6 @@
 ---
 templateKey: article-page
-title: “Demo Days” Goes Remote!
+title: Demo Days Goes Remote!
 slug: 'Justin, Anna, and Eden discuss our first event of Fall 2020'
 date: 2020-11-13T21:50:36.447Z
 cover: /img/DD18-1.jpg
