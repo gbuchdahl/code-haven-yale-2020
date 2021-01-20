@@ -16,66 +16,66 @@ const HomePageTemplate = ({
   testimonials,
   internal,
 }) => (
-    <div>
-      <Helmet>
-        <title>{meta_title}</title>
-        <meta name='description' content={meta_description} />
-      </Helmet>
-      <section className='hero-home is-primary is-bold is-small'>
-        <div className="is-marginless is-fluid container has-text-centered has-background-warning is-fullwidth">
-          <h3 className="is-size-4 banner pt-3 is-fluid has-text-black has-text-weight-semibold">Teach Tech 2021: <a href="https://forms.gle/DuFE9UWXj2V6xX5u5">Interest Form!</a> </h3>
-        </div>
-        <div className='hero-body'>
-          <div className='container'>
-            <div className='columns'>
-              <div className='column is-10 is-offset-1'>
-                <div className='section'>
-                  <div className="columns">
-                    <div className="column is-2 is-offset-5 box">
-                      <img className='' src={favicon}></img>
-                    </div>
-                  </div>
-                  <h1 className='title is-size-1 has-text-centered'>
-                    {title}
-                  </h1>
-                  <p className='control has-text-centered'>
-                    <Link
-                      className='button is-large has-text-weight-bold is-primary inverted is-rounded'
-                      to='/contact'>
-                      Contact Us!
-                      </Link>
-                  </p>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-      </section>
-      <section className='section section--gradient'>
+  <div>
+    <Helmet>
+      <title>{meta_title}</title>
+      <meta name='description' content={meta_description} />
+    </Helmet>
+    <section className='hero-home is-primary is-bold is-small'>
+      <div className="is-marginless is-fluid container has-text-centered has-background-warning is-fullwidth">
+        <h3 className="is-size-4 banner pt-3 is-fluid has-text-black has-text-weight-semibold">Teach Tech 2021: <a href="https://www.eventbrite.com/e/teach-tech-2021-learn-to-teach-computer-science-tickets-133276899795">Sign up here!</a> </h3>
+      </div>
+      <div className='hero-body'>
         <div className='container'>
-
-          <div className='section'>
-            <div className='columns'>
-              <div className='column is-10 is-offset-1'>
-                <div className='content'>
-                  <div>
-                    <h3 className='has-text-weight-semibold is-size-2'>
-                      {heading}
-                    </h3>
-                    <p>{description}</p>
+          <div className='columns'>
+            <div className='column is-10 is-offset-1'>
+              <div className='section'>
+                <div className="columns">
+                  <div className="column is-2 is-offset-5 box">
+                    <img className='' src={favicon}></img>
                   </div>
-                  <Offerings gridItems={offerings.blurbs} />
-                  <h2 className='has-text-weight-semibold is-size-2'>What people are saying</h2>
-                  <Testimonials testimonials={testimonials} />
                 </div>
+                <h1 className='title is-size-1 has-text-centered'>
+                  {title}
+                </h1>
+                <p className='control has-text-centered'>
+                  <Link
+                    className='button is-large has-text-weight-bold is-primary inverted is-rounded'
+                    to='/contact'>
+                    Contact Us!
+                      </Link>
+                </p>
               </div>
             </div>
           </div>
         </div>
-      </section>
-      <div dangerouslySetInnerHTML={{ __html: internal }} />
-    </div>
-  )
+      </div>
+    </section>
+    <section className='section section--gradient'>
+      <div className='container'>
+
+        <div className='section'>
+          <div className='columns'>
+            <div className='column is-10 is-offset-1'>
+              <div className='content'>
+                <div>
+                  <h3 className='has-text-weight-semibold is-size-2'>
+                    {heading}
+                  </h3>
+                  <p>{description}</p>
+                </div>
+                <Offerings gridItems={offerings.blurbs} />
+                <h2 className='has-text-weight-semibold is-size-2'>What people are saying</h2>
+                <Testimonials testimonials={testimonials} />
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+    <div dangerouslySetInnerHTML={{ __html: internal }} />
+  </div>
+)
 
 HomePageTemplate.propTypes = {
   title: PropTypes.string,
