@@ -8,6 +8,7 @@ import dwighthall from '../../assets/img/dwighthall.jpg'
 import seas from '../../assets/img/seas.jpg'
 import pathways from '../../assets/img/yalepathwaystoscience.jpg'
 import ycc from '../../assets/img/ycc.png'
+import teachorg from '../../assets/img/teachorg.png'
 
 
 const AboutPageTemplate = ({ title, content, contentComponent, people }) => {
@@ -43,7 +44,7 @@ const AboutPageTemplate = ({ title, content, contentComponent, people }) => {
         </div>
       </section>
       <section className='section section--gradient has-text-centered'>
-        <h1 className='title is-3'>Sponsors</h1>
+        <h1 className='title is-3'>Sponsors and Partners</h1>
         <div className='columns'>
           <div className='is-offset-one-quarter is-half column'>
             <div className='columns is-vcentered is-centered is-multiline'>
@@ -64,6 +65,9 @@ const AboutPageTemplate = ({ title, content, contentComponent, people }) => {
               </div>
               <div className='column is-4 is-6-mobile'>
                 <a className='image box is-128x128' href="https://sites.google.com/view/ignitecs/home"><img src={googleLogo}></img></a>
+              </div>
+              <div className='column is-4 is-6-mobile'>
+                <a className='image box is-128x128' href="https://teach-technology.org/"><img src={teachorg}></img></a>
               </div>
             </div>
           </div>
