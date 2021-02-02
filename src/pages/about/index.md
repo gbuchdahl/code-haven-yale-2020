@@ -10,29 +10,54 @@ people:
   - image: /img/eden.jpeg
     name: Eden Gorevoy
     title: President
+
+  - image: /img/Caroline.jpeg
+    name: Caroline Benedetti
+    title: Curriculum Director
+  - image: /img/JamesWang.jpg
+    name: James Wang
+    title: Curriculum Director
+  - image: /img/justin.png
+    name: Justin Chang
+    title: Curriculum Director
+
+  - image: /img/Graham.jpeg
+    name: Graham Stodolski
+    title: Events Director
+  - image: /img/Lila.jpg
+    name: Lila Selin
+    title: Events Director
+
   - image: /img/jesswang.jpg
     name: Jessica Wang
     title: Outreach Director
   - image: /img/aaron.jpg
     name: Aaron Daniels
     title: Outreach Director
-  - image: /img/danny.jpg
-    name: Danny Farid
+  - image: /img/Gillian.png
+    name: Gillian Gold
+    title: Outreach Director
+
+  - image: /img/Ethan.jpg
+    name: Ethan Dong
     title: Treasurer
-  - image: /img/justin.png
-    name: Justin Chang
-    title: Curriculum Director
+
   - image: /img/andrewrichards.jpeg
     name: Andrew Richards
     title: Video Director
   - image: /img/lucas.jpg
     name: Lucas Shepard
     title: Video Director
-  - image: /img/maansi.jpeg
-    name: Maansi Dasari
-    title: Advisor
+
+  - image: /img/Alice.jpg
+    name: Alice Ao
+    title: Mentor Manager
+
   - image: /img/bernardo.jpeg
     name: Bernardo Trevisan
+    title: Advisor
+  - image: /img/maansi.jpeg
+    name: Maansi Dasari
     title: Advisor
   - image: /img/img_7176.png
     name: Gabriel Buchdahl
