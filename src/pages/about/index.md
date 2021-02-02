@@ -4,54 +4,39 @@ title: About Us
 meta_title: About Us | Code Haven Yale
 meta_description: Code Haven About Information
 people:
-  - image: /img/maansi.jpeg
-    name: Maansi Dasari
+  - image: /img/annazhang.jpg
+    name: Anna Zhang
     title: President
-  - image: /img/bernardo.jpeg
-    name: Bernardo Trevisan
+  - image: /img/eden.jpeg
+    name: Eden Gorevoy
     title: President
-  - image: /img/mary.png
-    name: Mary Callanan
-    title: Mentor Manager
   - image: /img/jesswang.jpg
     name: Jessica Wang
-    title: Curriculum Director
+    title: Outreach Director
   - image: /img/aaron.jpg
     name: Aaron Daniels
-    title: Curriculum Director
-  # - image: /img/saralewis.jpg
-  #   name: Sara Lewis
-  #   title: Curriculum Advisor
-  - image: /img/img_7176.png
-    name: Gabriel Buchdahl
-    title: Outreach Director
-  - image: /img/david.png
-    name: David Gold
     title: Outreach Director
   - image: /img/danny.jpg
     name: Danny Farid
     title: Treasurer
   - image: /img/justin.png
     name: Justin Chang
-    title: Events Director
-  - image: /img/annazhang.jpg
-    name: Anna Zhang
-    title: Events Director
-  - image: /img/eden.jpeg
-    name: Eden Gorevoy
-    title: Events Director
+    title: Curriculum Director
   - image: /img/andrewrichards.jpeg
     name: Andrew Richards
     title: Video Director
   - image: /img/lucas.jpg
     name: Lucas Shepard
     title: Video Director
-  # - image: /img/steph.jpeg
-  #   name: Stephanie Bang
-  #   title: Advisor
-  # - image: /img/daniel.png
-  #   name: Daniel Urke
-  #   title: Advisor
+  - image: /img/maansi.jpeg
+    name: Maansi Dasari
+    title: Advisor
+  - image: /img/bernardo.jpeg
+    name: Bernardo Trevisan
+    title: Advisor
+  - image: /img/img_7176.png
+    name: Gabriel Buchdahl
+    title: Advisor
 ---
 ## About Us
 
