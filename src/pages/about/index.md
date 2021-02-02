@@ -42,8 +42,8 @@ people:
     name: Ethan Dong
     title: Treasurer
 
-  - image: /img/andrewrichards.jpeg
-    name: Andrew Richards
+  - image: /img/Charlie.jpeg
+    name: Charlie Liu
     title: Video Director
   - image: /img/lucas.jpg
     name: Lucas Shepard
