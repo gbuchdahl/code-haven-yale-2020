@@ -23,7 +23,7 @@ const HomePageTemplate = ({
     </Helmet>
     <section className='hero-home is-primary is-bold is-small'>
       <div className="is-marginless is-fluid container has-text-centered has-background-warning is-fullwidth">
-        <h3 className="is-size-4 banner pt-3 is-fluid has-text-black has-text-weight-semibold">Teach Tech 2021: <a href="https://www.eventbrite.com/e/teach-tech-2021-learn-to-teach-computer-science-tickets-133276899795">Sign up here!</a> </h3>
+        <h3 className="is-size-4 banner pt-3 is-fluid has-text-black has-text-weight-semibold">Teach Tech 2021: <a className='has-text-link' href="https://hopin.com/events/teachtech-2021">Join the event at this link!</a></h3>
       </div>
       <div className='hero-body'>
         <div className='container'>
