@@ -3,7 +3,7 @@ templateKey: article-page
 title: No Lockdowns for CodeHaven Outreach Team
 slug: 'Jess gives an update on her work as an outreach director '
 date: 2021-03-10T02:22:56.998Z
-cover: /img/screen-shot-2021-03-09-at-9.31.42-pm.png
+cover: /img/jesswang.jpg
 tags:
   - Outreach
   - Teachers
