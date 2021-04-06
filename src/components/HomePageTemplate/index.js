@@ -22,9 +22,6 @@ const HomePageTemplate = ({
       <meta name='description' content={meta_description} />
     </Helmet>
     <section className='hero-home is-primary is-bold is-small'>
-      <div className="is-marginless is-fluid container has-text-centered has-background-warning is-fullwidth">
-        <h3 className="is-size-4 banner pt-3 is-fluid has-text-black has-text-weight-semibold">Teach Tech 2021: <a className='has-text-link' href="https://hopin.com/events/teachtech-2021">Join the event at this link!</a></h3>
-      </div>
       <div className='hero-body'>
         <div className='container'>
           <div className='columns'>
