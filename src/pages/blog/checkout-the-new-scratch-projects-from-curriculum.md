@@ -1,6 +1,6 @@
 ---
 templateKey: article-page
-title: Checkout the New Scratch Projects from Curriculum!
+title: Check Out the New Scratch Projects from Curriculum!
 slug: scratch-projects-2021
 date: 2021-04-19T11:54:43.832Z
 cover: /img/mario_photo.png
