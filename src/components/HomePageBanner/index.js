@@ -20,11 +20,11 @@ const HomePageBanner = ({
 }) => (
   <div style={{backgroundColor: '#e9a416'}}>
   <p className='control has-text-centered'>
-    <Link
+    <a
       className='button is-large has-text-weight-bold is-primary inverted is-rounded'
-      to='https://docs.google.com/forms/d/e/1FAIpQLSfXhwhug_zEJYdsn7jweUiL-UyTGHWsnRTkU_fKOSj6xhGQNg/viewform'>
+      href='https://docs.google.com/forms/d/e/1FAIpQLSfXhwhug_zEJYdsn7jweUiL-UyTGHWsnRTkU_fKOSj6xhGQNg/viewform'>
       Apply to Have Us in Your Class for the Fall!
-        </Link>
+        </a>
   </p>
   </div>
 )
