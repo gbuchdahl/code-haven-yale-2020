@@ -49,7 +49,6 @@
     "lodash": "^4.17.15",
     "lodash-webpack-plugin": "^0.11.5",
     "netlify-cms-app": "^2.9.7",
-    "node-sass": "^4.12.0",
     "prop-types": "^15.7.2",
     "query-string": "^6.8.3",
     "react": "^16.9.0",
@@ -71,6 +70,7 @@
     "eslint-plugin-promise": "^4.2.1",
     "eslint-plugin-react": "^7.14.3",
     "eslint-plugin-standard": "^4.0.1",
+    "node-sass": "^4.14.1",
     "remark-cli": "^7.0.0",
     "remark-preset-lint-recommended": "^3.0.3"
   }
