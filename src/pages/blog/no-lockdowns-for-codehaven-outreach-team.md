@@ -1,6 +1,6 @@
 ---
 templateKey: article-page
-title: No Lockdowns for CodeHaven Outreach Team
+title: No Lockdowns for Code Haven Outreach Team
 slug: 'Jess gives an update on her work as an outreach director '
 date: 2021-03-10T02:22:56.998Z
 cover: /img/screen-shot-2020-10-21-at-11.56.32-am.png
@@ -13,7 +13,7 @@ tags:
 meta_title: An Update from Outreach
 meta_description: 'Outreach gives an update on their work. '
 ---
-As one of three new outreach directors, I wanted to give a quick overview of the initiatives that outreach is working on this semester! As a general principle, CodeHaven’s outreach team is in charge of the outwards facing tasks of Code Haven, managing our public appearance, as well as expanding our outreach with research and further opportunities. This semester, we decided to focus on four separate initiatives: teacher research, newsletter, website management, and social media. In this blog post, we will go through each of these umbrella initiatives and describe the various tasks associated with each one.
+As one of three new outreach directors, I wanted to give a quick overview of the initiatives that outreach is working on this semester! As a general principle, Code Haven’s outreach team is in charge of the outwards facing tasks of Code Haven, managing our public appearance, as well as expanding our outreach with research and further opportunities. This semester, we decided to focus on four separate initiatives: teacher research, newsletter, website management, and social media. In this blog post, we will go through each of these umbrella initiatives and describe the various tasks associated with each one.
 
 **Teacher Research** 
 
@@ -34,13 +34,9 @@ Our teacher research also gave us valuable insight into the structure of our new
 As an outreach team, we devised a new structure for our newsletter that will stay consistent throughout each month, with sections including a five-minute classroom activity, a blog, a review, a spotlight, and words of the day for teachers and students. 
 
 1. Five-minute classroom activity: This five-minute activity is designed to be read by teachers and to be utilized directly in the classroom.
-
 2. Blog: In this section, Code Haven members will provide an update on the initiatives that we’ve been working towards.
-
 3. Review: In the review section, I will review a CS resource, conference, and network, highlighting the pros and cons so that teachers don’t have to!
-
 4. Spotlight: The spotlight section is an article written at a kid-friendly reading level, and will spotlight a new CS concept, discovery, or historical figure. This is designed for teachers to be able to hand to their students to read as a classroom activity.
-
 5. Word of the day: We will provide a word of the day for teachers that will help them in better understanding CS and teaching CS, as well as a CS-related word of the day for students. 
 
 **Website** 
