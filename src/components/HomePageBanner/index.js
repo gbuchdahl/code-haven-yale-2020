@@ -23,7 +23,7 @@ const HomePageBanner = ({
     <a
       className='button is-large has-text-weight-bold is-primary inverted is-rounded'
       href='https://forms.gle/Z7DsQSs1wgN3qjjF9'>
-      Apply to Have Us in Your Class for Spring!
+      Apply to Have Us in Your Class for the Spring!
         </a>
   </p>
   </div>
