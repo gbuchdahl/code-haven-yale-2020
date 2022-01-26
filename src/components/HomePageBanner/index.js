@@ -22,8 +22,8 @@ const HomePageBanner = ({
   <p className='control has-text-centered'>
     <a
       className='button is-large has-text-weight-bold is-primary inverted is-rounded'
-      href='https://docs.google.com/forms/d/e/1FAIpQLSfXhwhug_zEJYdsn7jweUiL-UyTGHWsnRTkU_fKOSj6xhGQNg/viewform'>
-      Apply to Have Us in Your Class for the Fall!
+      href='https://forms.gle/Z7DsQSs1wgN3qjjF9'>
+      Apply to Have Us in Your Class for Spring!
         </a>
   </p>
   </div>
